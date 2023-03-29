@@ -18,7 +18,6 @@ public class maxmin {
 				num[i] = temp;
 				max=num[0];
 			}
-			
 		}	
 		
 		/* 최소값 */
