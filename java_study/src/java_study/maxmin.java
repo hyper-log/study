@@ -2,7 +2,7 @@ package java_study;
 
 public class maxmin {
 	
-	//최대값, 최소값 구하기
+	//최대값, 최소값 구하기 알고리즘 파이팅!
 
 	public static void main(String[] args) {
 		
