@@ -3,7 +3,7 @@ package java_study;
 public class maxmin {
 	
 	//최대값, 최소값 구하기
-	
+
 	public static void main(String[] args) {
 		
 		int num[] = {5, 10, 15, 3, 4};
