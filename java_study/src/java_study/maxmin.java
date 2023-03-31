@@ -29,8 +29,7 @@ public class maxmin {
 				min=num[0];
 			}
 		}
-			
-		
+
 		System.out.println(max);
 		System.out.println(min);
 		
